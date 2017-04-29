@@ -60,7 +60,7 @@ def test_softmax():
     your tests be graded.
     """
     print "Running your tests..."
-    ### YOUR CODE HERE
+    ### YOUR CODE HERE 
     ### END YOUR CODE
 
 if __name__ == "__main__":
