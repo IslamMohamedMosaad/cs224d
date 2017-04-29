@@ -193,7 +193,7 @@ def cbow(currentWord, C, contextWords, tokens, inputVectors, outputVectors,
     # - cost: the cost function value for the skip-gram model
     # - grad: the gradient with respect to the word vectors
     # We will not provide starter code for this function, but feel
-    # free to reference the code you previously wrote for this
+    # free to reference the code you previously wrote for this 
     # assignment!
 
     cost    = 0
